@@ -46,7 +46,6 @@ SET /p d=
 SET /A inkrement=d+=1
 ECHO Inkrement je %inkrement%
 PAUSE
-EXIT
 ::
 :: UZIVAJTE
 ::
