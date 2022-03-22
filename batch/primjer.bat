@@ -24,6 +24,7 @@ start "" https://ask.com
 ::
 ::
 ECHO odradio izmjenu!
+ECHO odradio drugu izmjenu!
 ECHO da li zelite da zatvorite CMD prozor (y/n)?
 SET /p neto=
 IF %neto%==y (
