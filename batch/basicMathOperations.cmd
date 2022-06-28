@@ -5,11 +5,11 @@
 :: Ovo je testna skripta za osnovne aritmeticke operacije
 :: Prosirite je sa ovim funkcionalnostima:
 :: 		Dodati opciju da oduzimanje
-:: 		Dodati opciju za provjeru da li je uneseni broj veci od npr. 10
-:: 		Dodati opciju za provjeru da li je uneseni broj manji od npr. 10
+:: 		Dodati opciju za provjeru da li je uneseni broj veci od 10
+:: 		Dodati opciju za provjeru da li je uneseni broj manji od 10
 :: 		Dodati prikaz verzije OS-a
 :: 		Dodati prikaz datuma
-:: 		Dodati prikaza trenutnog vremena
+:: 		Dodati prikaz trenutnog vremena
 :: 		Dodati opciju snimanja nekog teksta ili rezultata u textualni fajl na Desktopu
 ::		Dodati IF ELSE uslov koji ce nam reci da li je unseni broj veci ili manji od 20
 ::		Pitati korisnika na kraju da li zeli da se batch prozor zatvori. Kada odgovori potvrdno, sacekati 2 sec prije nego se Batch prozor zatvori
