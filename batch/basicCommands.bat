@@ -31,5 +31,6 @@ IF %neto%==y (
 	EXIT
 	) 
 ELSE ( 
-	ECHO Prozor ostajem otovren 
+	ECHO Prozor ostajem otvoren
+	PAUSE
 	)
